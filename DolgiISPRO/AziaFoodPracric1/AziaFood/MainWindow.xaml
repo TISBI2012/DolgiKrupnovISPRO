@@ -1,0 +1,105 @@
+﻿<Window x:Class="AziaFood.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        xmlns:uc="clr-namespace:AziaFood.UserControls"
+        mc:Ignorable="d" Height="650" Width="1000" Background="Transparent" WindowStyle="None"
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+      
+        <Border Background="Crimson" Padding="30" CornerRadius="25,0,0,25">
+            <StackPanel VerticalAlignment="Center">
+                <Image Source="/Images/img.png" Width="160" Height="160" Margin="0,0,0,40"/>
+
+               
+                <TextBlock Text="Логин" TextAlignment="Center" FontWeight="SemiBold" FontSize="30" Foreground="#363636"/>
+                <TextBox x:Name="TBLogged" Style="{StaticResource TextboxMain}"/>
+                <TextBlock Text="Пароль" TextAlignment="Center" FontWeight="SemiBold" FontSize="30" Foreground="#363636"/>
+                <TextBox x:Name="TBPasswordLogin" Style="{StaticResource TextboxMain}"/>
+                <Button Style="{StaticResource buttonBlack}" x:Name="BLogin" Click="BLogin_Click">
+                    <fa:ImageAwesome Icon="AngleRight" Width="25" Height="25" Foreground="Crimson" Margin="3,0,0,0"/>
+                </Button>
+            </StackPanel>
+            
+            
+        </Border>
+
+
+
+
+
+        <Border Grid.Column="1" Padding="20" Background="White" CornerRadius="0,25,25,0" MouseDown="Border_MouseDown">
+
+            <Grid>
+                <Image Source="/Images/close.png" Width="25" Margin="0,4,5,0" Style="{StaticResource iconApp}"/>
+                <Image Source="/Images/minimize.png" Width="20" Margin="0,7,40,0" Style="{StaticResource iconApp}"/>
+
+                <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,10,0,0">
+
+                    
+                    
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Text="Имя" Style="{StaticResource text}"/>
+                    <TextBlock Grid.Row="1" Text="Фамилия" Style="{StaticResource text}"/>
+                    <TextBlock Grid.Row="2" Text="Пол" Style="{StaticResource text}"/>
+                    <TextBlock Grid.Row="3" Text="Почта" Style="{StaticResource text}"/>
+                    <TextBlock Grid.Row="4" Text="Телефон" Style="{StaticResource text}"/>
+                    <TextBlock Grid.Row="5" Text="Логин" Style="{StaticResource text}"/>
+                    <TextBlock Grid.Row="6" Text="Пароль" Style="{StaticResource text}"/>
+
+
+                    <TextBox x:Name="TBName" Grid.Column="1" Grid.Row="0" Style="{StaticResource TextboxMain}"/>
+                    <TextBox x:Name="TBFamily" Grid.Column="1" Grid.Row="1" Style="{StaticResource TextboxMain}"/>
+                    <TextBox x:Name="TBEmail" Grid.Column="1" Grid.Row="3" Style="{StaticResource TextboxMain}"/>
+                    <TextBox x:Name="TBPhone" Grid.Column="1" Grid.Row="4" Style="{StaticResource TextboxMain}"/>
+                    <TextBox x:Name="TBLogin" Grid.Column="1" Grid.Row="5" Style="{StaticResource TextboxMain}"/>
+                    <TextBox x:Name="TBPassword" Grid.Column="1" Grid.Row="6" Style="{StaticResource TextboxMain}"/>
+
+               
+      
+                    <Grid Grid.Column="1" Grid.Row="7" Margin="0,40,0,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Button x:Name="BExit" Content="Выход" Margin="0,0,10,0" Style="{StaticResource buttonMain}" Click="BExit_Click"/>
+                        <Button x:Name="BSave" Content="Сохранить" Margin="10,0,0,0" Grid.Column="1" Style="{StaticResource buttonMain}" Click="BSave_Click"/>
+                    
+                     
+                    </Grid>
+
+                    
+                </Grid>
+            </Grid>
+
+
+
+
+
+        </Border>
+    </Grid>
+</Window>

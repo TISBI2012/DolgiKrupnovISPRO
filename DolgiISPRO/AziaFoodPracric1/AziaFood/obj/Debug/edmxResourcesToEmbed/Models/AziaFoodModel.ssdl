@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище Practic1Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Dishes">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Price" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="TypeDishesid" Type="int" Nullable="false" />
+    <Property Name="CostPrice" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Stoplist" Type="nvarchar" MaxLength="3" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TypeDishes">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Login" Type="nvarchar" MaxLength="32" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="16" Nullable="false" />
+    <Property Name="Family" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="12" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Dishes_TypeDishes">
+    <End Role="TypeDishes" Type="Self.TypeDishes" Multiplicity="1" />
+    <End Role="Dishes" Type="Self.Dishes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypeDishes">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Dishes">
+        <PropertyRef Name="TypeDishesid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище Practic1ModelContainer">
+    <EntitySet Name="Dishes" EntityType="Self.Dishes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TypeDishes" EntityType="Self.TypeDishes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Dishes_TypeDishes" Association="Self.FK_Dishes_TypeDishes">
+      <End Role="TypeDishes" EntitySet="TypeDishes" />
+      <End Role="Dishes" EntitySet="Dishes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

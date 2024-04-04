@@ -1,0 +1,110 @@
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood.csproj.AssemblyReference.cache
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\MainWindow.g.cs
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\Pages\MenuPage.g.cs
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\App.g.cs
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood_Content.g.cs
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood_MarkupCompile.cache
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood_MarkupCompile.lref
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\AziaFood.exe.config
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\AziaFood.exe
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\AziaFood.pdb
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\EntityFramework.dll
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\EntityFramework.SqlServer.dll
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\EntityFramework.xml
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\EntityFramework.SqlServer.xml
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\ru\EntityFramework.resources.dll
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\MainWindow.baml
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\Pages\MenuPage.baml
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood.g.resources
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood.Properties.Resources.resources
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood.csproj.GenerateResource.cache
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood.csproj.CoreCompileInputs.cache
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood.csproj.CopyComplete
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood.exe
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\AziaFood.pdb
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\Pages\ProfilePage.g.cs
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\App.baml
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\Pages\ProfilePage.baml
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\FontAwesome.WPF.dll
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\FontAwesome.WPF.xml
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\UserControls\MyOption.baml
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\UserControls\MyOption.g.cs
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\Pages\MainPageWidows.g.cs
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\Pages\MainPageWidows.baml
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\Pages\AddDishesPage.g.cs
+Y:\Крупнов Даниил\Азиатское )\AziaFood\AziaFood\obj\Debug\Pages\AddDishesPage.baml
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood.csproj.AssemblyReference.cache
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\UserControls\MyOption.baml
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\MainWindow.g.cs
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\Pages\AddDishesPage.g.cs
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\Pages\MainPageWidows.g.cs
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\Pages\MenuPage.g.cs
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\Pages\ProfilePage.g.cs
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\UserControls\MyOption.g.cs
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\App.g.cs
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood_Content.g.cs
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood_MarkupCompile.cache
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood_MarkupCompile.lref
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood.exe
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood.pdb
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\AziaFood.exe.config
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\AziaFood.exe
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\AziaFood.pdb
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\EntityFramework.dll
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\EntityFramework.SqlServer.dll
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\FontAwesome.WPF.dll
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\EntityFramework.xml
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\EntityFramework.SqlServer.xml
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\FontAwesome.WPF.xml
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\ru\EntityFramework.resources.dll
+D:\KrupnovPractic1-master\AziaFood\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\App.baml
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\MainWindow.baml
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\Pages\AddDishesPage.baml
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\Pages\MainPageWidows.baml
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\Pages\MenuPage.baml
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\Pages\ProfilePage.baml
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood.g.resources
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood.Properties.Resources.resources
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood.csproj.GenerateResource.cache
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood.csproj.CoreCompileInputs.cache
+D:\KrupnovPractic1-master\AziaFood\obj\Debug\AziaFood.csproj.Up2Date
+D:\AziaFood\AziaFood\bin\Debug\AziaFood.exe.config
+D:\AziaFood\AziaFood\bin\Debug\AziaFood.exe
+D:\AziaFood\AziaFood\bin\Debug\AziaFood.pdb
+D:\AziaFood\AziaFood\bin\Debug\EntityFramework.dll
+D:\AziaFood\AziaFood\bin\Debug\EntityFramework.SqlServer.dll
+D:\AziaFood\AziaFood\bin\Debug\FontAwesome.WPF.dll
+D:\AziaFood\AziaFood\bin\Debug\EntityFramework.xml
+D:\AziaFood\AziaFood\bin\Debug\EntityFramework.SqlServer.xml
+D:\AziaFood\AziaFood\bin\Debug\FontAwesome.WPF.xml
+D:\AziaFood\AziaFood\bin\Debug\ru\EntityFramework.resources.dll
+D:\AziaFood\AziaFood\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\AziaFood\AziaFood\obj\Debug\AziaFood.csproj.AssemblyReference.cache
+D:\AziaFood\AziaFood\obj\Debug\UserControls\MyOption.baml
+D:\AziaFood\AziaFood\obj\Debug\MainWindow.g.cs
+D:\AziaFood\AziaFood\obj\Debug\Pages\AddDishesPage.g.cs
+D:\AziaFood\AziaFood\obj\Debug\Pages\MainPageWidows.g.cs
+D:\AziaFood\AziaFood\obj\Debug\Pages\MenuPage.g.cs
+D:\AziaFood\AziaFood\obj\Debug\Pages\ProfilePage.g.cs
+D:\AziaFood\AziaFood\obj\Debug\UserControls\MyOption.g.cs
+D:\AziaFood\AziaFood\obj\Debug\App.g.cs
+D:\AziaFood\AziaFood\obj\Debug\AziaFood_Content.g.cs
+D:\AziaFood\AziaFood\obj\Debug\AziaFood_MarkupCompile.cache
+D:\AziaFood\AziaFood\obj\Debug\AziaFood_MarkupCompile.lref
+D:\AziaFood\AziaFood\obj\Debug\App.baml
+D:\AziaFood\AziaFood\obj\Debug\MainWindow.baml
+D:\AziaFood\AziaFood\obj\Debug\Pages\AddDishesPage.baml
+D:\AziaFood\AziaFood\obj\Debug\Pages\MainPageWidows.baml
+D:\AziaFood\AziaFood\obj\Debug\Pages\MenuPage.baml
+D:\AziaFood\AziaFood\obj\Debug\Pages\ProfilePage.baml
+D:\AziaFood\AziaFood\obj\Debug\AziaFood.g.resources
+D:\AziaFood\AziaFood\obj\Debug\AziaFood.Properties.Resources.resources
+D:\AziaFood\AziaFood\obj\Debug\AziaFood.csproj.GenerateResource.cache
+D:\AziaFood\AziaFood\obj\Debug\AziaFood.csproj.CoreCompileInputs.cache
+D:\AziaFood\AziaFood\obj\Debug\AziaFood.csproj.Up2Date
+D:\AziaFood\AziaFood\obj\Debug\AziaFood.exe
+D:\AziaFood\AziaFood\obj\Debug\AziaFood.pdb
